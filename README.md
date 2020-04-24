@@ -8,7 +8,7 @@ Bamazon is a simplified version of amazon where items are listed to buy, they ea
 * `mysql`
 
 ## npm packages:
-* `inquierer - To give users input options`
+* `inquirer - To give users input options`
 * `mysql - conatining all data on pruducts`
 
 ## How to Run Bamazon
