@@ -37,7 +37,7 @@ the folowing information should be shown in the command line/bash:
   ```
 Your total is _____
   ```
-## Images Link 
+## Images
 
 ![](Images/Mysql_baseValues.JPG)
 ![](Images/Node_01choose.JPG)
@@ -92,10 +92,7 @@ How many are you adding?
 ### Step six: Exit. (end program)
 
 
-## Author
-Brock Horton 
-
-## Images Link 
+## Images
 
 ![](Images/Manager_Selection.JPG)
 ![](Images/Manager_ViewPro.JPG)
@@ -103,3 +100,6 @@ Brock Horton
 ![](Images/Manager_AddToPro.JPG)
 ![](Images/Manager_AddToInv.JPG)
 ![](Images/Manager_exit.JPG)
+
+## Author
+Brock Horton 
