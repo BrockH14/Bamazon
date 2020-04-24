@@ -99,12 +99,12 @@ function addToInv(){
 function addToPro(){
     inquirer.prompt([
         {
-        name: "PN",
+        name: "proN",
         type: "input",
         message: "What is the product name you would like to add?",
         },
         {
-        name: "DN",
+        name: "depN",
         type: "input",
         message: "What is the department?",
         },
@@ -122,16 +122,16 @@ function addToPro(){
         connection.query(
             "INSERT INTO products SET ?",
             {
-              product_name: inRes.PN,
-              department_name: inRes.DN,
-              price: answer.inRes.price,
+              product_name: inRes.proN,
+              department_name: inRes.depN,
+              price: inRes.price,
               stock_quantity: inRes.stock 
             },
             function(error) {
               if (error) throw err;
             });
+        menu();
     });
-    menu();
 }
 function exit(){
     connection.end();
