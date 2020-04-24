@@ -44,8 +44,8 @@ Brock Horton
 
 ## Images Link 
 
-![](images/Mysql_baseValues.JPG)
-![](images/Node_01choose.JPG)
-![](images/Node_01quantity.JPG)
-![](images/Node_01total.JPG)
-![](images/Mysql_updated.JPG)
+![](Images/Mysql_baseValues.JPG)
+![](Images/Node_01choose.JPG)
+![](Images/Node_01quantity.JPG)
+![](Images/Node_01total.JPG)
+![](Images/Mysql_updated.JPG)
